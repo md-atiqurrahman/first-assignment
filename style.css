@@ -166,10 +166,9 @@ p{
 .dflex{
     display: flex;
     width: 100%;
-    
 }
 .dflex img{
-    width: 224.6px;
+    width: 224.8px;
 }
 footer{
     background: rgb(40, 40, 43);
