@@ -30,7 +30,7 @@ body{
     border-image-slice: 1;
 }
 .orange-color{
-    color: orange;
+    color: rgb(242, 140, 40);
 }
 p{
     font-size: 14px;
@@ -48,7 +48,7 @@ p{
     font-family: 'Roboto', sans-serif;
     border: 1px solid tomato;
     border-radius: 7px;
-    background-image: linear-gradient(tomato,red);
+    background-image: linear-gradient(tomato,rgb(238, 75, 43));
     color: white;
 }
 .target{
@@ -59,7 +59,7 @@ p{
     font-weight: bolder;
     font-size: 40px;
     line-height: 1;
-    color: darkslateblue;
+    color: 	rgb(48, 25, 52);
     text-align: center;
     margin-bottom: 45px;
 }
@@ -113,10 +113,6 @@ p{
     display: flex;
     width: 80%;
     margin: 0 auto;
-    background: url(./images/shapes/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-   
 }
 .develop-coding img{
     width: 380px;
@@ -133,4 +129,35 @@ p{
     font-weight: bolder;
     font-size: 20px;
     line-height: 1;
+}
+.details{
+    margin-bottom: 100px;
+}
+.mgr{
+    margin-right: 50px;
+    margin-top: 35px;
+}
+footer{
+    background: rgb(40, 40, 43);
+    text-align: center;
+    height: 18vh;
+}
+footer h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+    line-height: 1;
+    color: white;
+    padding-top: 30px;
+}
+footer p{
+    color: white;
+    font-size: 10px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    line-height: 18px;
+}
+.f-title{
+    color: rgb(211, 40, 31);
 }
