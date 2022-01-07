@@ -19,7 +19,7 @@ body{
    margin-left: 200px;
   
 }
-.gfonts{
+.about-title{
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     font-size: 32px;
@@ -43,10 +43,71 @@ p{
 }
 .btn{
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 10px 20px;
     font-family: 'Roboto', sans-serif;
     border: 1px solid tomato;
-    border-radius: 5px;
+    border-radius: 7px;
     background-image: linear-gradient(tomato,red);
     color: white;
+}
+.target{
+    margin-bottom: 100px;
+}
+.target-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 1;
+    color: darkslateblue;
+    text-align: center;
+}
+.mission2022{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+.mission{
+    width: 270px;
+    height: 300px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: justify;
+    background-color: lightgrey;
+    margin-right: 20px;
+}
+.mission img{
+    width: 45%;
+}
+.Vission{
+    width: 45%;
+    width: 270px;
+    height: 300px;
+    border: 1px solid lightpink;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: justify;
+    background-color: lightpink;
+    margin-right: 20px;
+}
+.Vission img{
+    width: 45%;
+}
+.Goals{
+    width: 270px;
+    height: 300px;
+    border: 1px solid lightsalmon;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: justify;
+    background-color: lightsalmon;
+}
+.Goals img{
+    width: 45%;
+}
+.silde-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 1;
 }
