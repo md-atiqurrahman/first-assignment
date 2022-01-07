@@ -109,6 +109,12 @@ p{
     font-size: 20px;
     line-height: 1;
 }
+.development{
+    background: url(./images/shapes/shape-1.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
 .develop-coding{
     display: flex;
     width: 80%;
@@ -132,6 +138,10 @@ p{
 }
 .details{
     margin-bottom: 100px;
+    background: url(./images/shapes/shape-1.png);
+    background-size: 300px 300px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .mgr{
     margin-right: 50px;
